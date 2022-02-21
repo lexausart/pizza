@@ -1,9 +1,5 @@
-h1{
-  font-family: Satisfy;
-  font-size:50px;
-  text-align:center;
-  color:black;
-  padding:1%;
+body {
+  font-family: "Raleway", Arial, sans-serif
 }
 #gallery{
   -webkit-column-count:4;
@@ -57,9 +53,7 @@ h1{
 .modal-body{
   padding:0px;
 }
-body {
-  font-family: "Raleway", Arial, sans-serif
-}
+
 
 .w3-row img {
   margin-bottom: -8px
